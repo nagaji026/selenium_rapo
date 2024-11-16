@@ -25,6 +25,7 @@ import objectrepository.LoginPage;
 import objectrepository.WelcomePage;
 
 public class BaseClass {
+	// class is modified in github
 	public  ExtentReports extReport;
 	public ExtentTest test;
 	public WebDriver driver;
